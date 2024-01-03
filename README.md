@@ -11,8 +11,8 @@ ML 시스템 개발(Dev)과 ML 시스템 운영(Ops)을 통합하여 데이터 �
 • ELICE INSIGHT CONF: MLops 시청(VOD 보유)
 • Kaggle or Dacon code review
 
-### 1주차 - Orientation
+### 1주차 - Orientation(2023.12.29)
 
 MLops study 동기 및 목표에 대해 이야기하였고
 앞으로 어떻게 스터디를 운영할지 결정하였습니다.
-[과제] 내가 생각하는 MLOps 생각해오기(~2024.01.03) 
+- [과제] 내가 생각하는 MLOps 생각해오기(~2024.01.03) 
