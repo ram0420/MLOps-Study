@@ -41,5 +41,7 @@ https://www.inflearn.com/course/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%97%94%E
 달파는 모든 서비스가 2주안에 끝남<br/>
 데이터의 변환이 빨리 일어나면 모델 학습을 자동화하니까 모델학습을 자동화 시켜줌<br/>
 웨이트 인 바이어스로 결과를 도출하는 방식이 상당히 전문적이고 실제 발표에서 써볼만<br/>
-- [과제] - 각자 MLops 툴 한개씩 공부해오기
-
+**elice MLOps conference 세션 2개 맛보기**
+  - DATABRICKS를 활용한 MLOps
+  - MLOps를 시작하는 5단계 기초부터
+- [과제] - 각자 MLops tool 한개씩 공부해오기<br/><br/>
