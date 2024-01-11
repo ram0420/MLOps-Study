@@ -27,11 +27,11 @@ MLops study 동기 및 목표에 대해 이야기하였고
 - [과제] 내가 생각하는 MLOps 생각해오기(~2024.01.03) 
 
 ### 1주차 - 내가 생각하는 MLops란?& 강의 선정
-각자가 생각하는 MLops를 말하였습니다.
-그리고 mlops 강좌들을 살펴보며 강좌를 골랐습니다
-[선정 강좌]머신러닝 엔지니어 실무 - chris song
-https://www.inflearn.com/course/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%8B%A4%EB%AC%B4#curriculum
-다음주 과제 - Session 1까지 듣기
+각자가 생각하는 MLops를 말하였습니다.<br/>
+그리고 mlops 강좌들을 살펴보며 강좌를 골랐습니다<br/>
+[선정 강좌]머신러닝 엔지니어 실무 - chris song<br/>
+https://www.inflearn.com/course/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%8B%A4%EB%AC%B4#curriculum<br/>
+다음주 과제 - Session 1까지 듣기<br/>
 
 ### 2주차 - 세션 후기 및 mlops
 세션 1에서 인상깊었던 점 및 오늘의 insight<br/>
