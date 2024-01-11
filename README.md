@@ -34,7 +34,8 @@ https://www.inflearn.com/course/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%97%94%E
 - [과제] Session 1까지 듣기<br/>
 
 ### 2주차 - 세션 후기 및 mlops
-세션 1에서 인상깊었던 점 및 오늘의 insight<br/>
+**세션 1에서 인상깊었던 점 및 오늘의 insight**
+<br/>
 원디비의 존재를 알다. <br/>
 쉬운 머신러닝과 어려운 머신러닝의 차이<br/>
 달파는 모든 서비스가 2주안에 끝남<br/>
