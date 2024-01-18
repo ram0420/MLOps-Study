@@ -56,3 +56,14 @@ MLflow Tracking API를 사용하면 MLflow는 자동으로 해당 프로젝트�
 
 MLflow Model의 전체 Lifecycle에서 사용할 수 있는 중앙 모델 저장소
 [출처]https://velog.io/@ifelifelse/MLflow
+
+# MLflow 실제 활용 사례
+MLflow Tracking Server는 하나로 통합 운영
+
+Tracking Server를 하나 배포하고, 팀 내 모든 Researcher가 이 Tracking Server에 실험 기록
+-- 배포할때는 Docker Image, Kubernetes 등에 진행(회사의 인프라에 따라 다름)
+
+로그나 모델이 한 곳에 저장되므로, 팀 내 모든 실험을 공유할 수 있음
+-- Artifact Storage는 GCS나 S3같은 스토리지 이용
+-- DB는 CloudSQL이나 AuroraRDS 같은 DB이용
+-이 두 저장소는 Tracking Server에 의해 관리
