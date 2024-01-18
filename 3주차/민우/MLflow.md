@@ -87,3 +87,7 @@ Tracking Server를 하나 배포하고, 팀 내 모든 Researcher가 이 Trackin
 
 ![image](https://github.com/SK-AI-FLY-MLOps-Study/MLOps-Study/assets/108683454/77314d65-f668-4266-877e-33aab33f4eb0)
 
+![image](https://github.com/SK-AI-FLY-MLOps-Study/MLOps-Study/assets/108683454/04685dfa-2003-484a-94c6-8b5b8e7a3a5b)  
+[출처]https://www.databricks.com/kr/blog/mlflow-2-7-llmops-prompt-eng-ai-gateway-updates
+
+
