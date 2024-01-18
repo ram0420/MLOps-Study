@@ -96,3 +96,7 @@ what-if-tool은 시각화 도구
 워크스페이스가 있
 https://pair-code.github.io/what-if-tool/  
 ![image](https://github.com/barabonda/MLOps-Study/assets/108683454/b77b70f0-348a-43c3-a90f-2c906db753e3)
+marital로 다양한 데이터 분석을 모델안에서 할 수 있는 것이 장  
+![image](https://github.com/barabonda/MLOps-Study/assets/108683454/f254b117-88e0-4617-9172-82bde5509f91)
+얼굴 디텍
+이미지도 된다...미쳤다  
