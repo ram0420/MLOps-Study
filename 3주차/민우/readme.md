@@ -1,3 +1,7 @@
+오늘 새로 알게된 툴 및 라이브러리
+1. black
+2. lint
+3. code c
 # 리서치 코드 품질 관리 자동화
 리서처분들과 일할 때 CI(Continuous Integration) 필요
 리서처분들의 코드가 부족할 경우
@@ -22,4 +26,30 @@ mypy이용하면 타입힌트에 오류가 있는지 자동으로 확인할 수 
  ![image](https://github.com/barabonda/MLOps-Study/assets/108683454/d4d6b965-49d5-4944-b155-c7c92fc27ebd)
  소프트웨어의 질적향상  
  CI tool: circle CI, jenkins, 오늘 해볼것 github action!
- 
+ ## black 과 lint
+black을 쓰면 코드를 수정하고 이를 lint와 연동하여 깃허브에 풀리퀘스트를 해보면 코드적으로 오류가 있을때 풀리퀘스트가 안되도록함
+## CODE CLIMATE
+코드관리 유료 툴
+- 정적 분석하기에 좋
+코드가 어떤지 평가를 해
+
+CI 에다가 2가지 테스트 추가한것을 커밋
+![image](https://github.com/barabonda/MLOps-Study/assets/108683454/0b458f34-81ba-4efa-bb87-e3581641a272)
+코드 검증을 받아야 리퀘스트를 할 수 있는
+
+작업에 대해서 초반에는 일관성을 유지하도록 강제하고 그 이후부터는 코드가 예쁘게 알려주고
+CLIMATE 덕분에 코멘트도 다남겨줌  
+시니어들이 코드리뷰하는 시간이 줄어들음
+그리고 마크다운으로 리드미에 업뎃할 수도 있음
+테스트 --> 린트 -->
+이과정을 통해 코드의 품질이 떨어지지않도록 계속 봐줌  
+![image](https://github.com/barabonda/MLOps-Study/assets/108683454/30b924ba-23ac-4eca-ab66-ca895d027bc2)
+리서치 코드 뿐만 아니라 api서버에서도 사용가능  
+![image](https://github.com/barabonda/MLOps-Study/assets/108683454/b812d5e6-2dc2-422f-aa07-3289207a48bd)
+자동
+# 데이터 검증 tfdv
+1. 데이터 검증 필요성
+2. 스키마 추론 & 스키마 환경
+3. 데이터 드리프트 & 스
+# tfx
+
