@@ -1,10 +1,10 @@
 
 
-# MLOps-Study  
+# MLOps-Study
 ![image](https://github.com/SK-AI-FLY-MLOps-Study/MLOps-Study/assets/108683454/2cf27f2c-cd2a-4728-8ccb-1e8da69a6cf0)
-~~다들 웃고있는거 맞죠^^~~
+~~다들 웃고있는거 맞죠?^^~~
 <br/>
-sk ai fly에서 만난 이들의 mlops study!
+**sk ai fly에서 만난 이들의 mlops study!**
 AI와 빅데이터의 시대인만큼 현업에서 AI를 효과적으로 운영하고 적용하는 데 필수적인 MLops의 중요성이 커짐에 따라 mlops에 대해 알고자하는 이들끼리 스터디 결성
 
 ### 🚀MLops란?
