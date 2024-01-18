@@ -67,4 +67,8 @@ Tracking Server를 하나 배포하고, 팀 내 모든 Researcher가 이 Trackin
 로그나 모델이 한 곳에 저장되므로, 팀 내 모든 실험을 공유할 수 있음
 -- Artifact Storage는 GCS나 S3같은 스토리지 이용
 -- DB는 CloudSQL이나 AuroraRDS 같은 DB이용
--이 두 저장소는 Tracking Server에 의해 관리
+-이 두 저장소는 Tracking Server에 의해 관리  
+
+
+![image](https://github.com/SK-AI-FLY-MLOps-Study/MLOps-Study/assets/108683454/77314d65-f668-4266-877e-33aab33f4eb0)
+
