@@ -1,3 +1,5 @@
+![image](https://github.com/SK-AI-FLY-MLOps-Study/MLOps-Study/assets/108683454/2cf27f2c-cd2a-4728-8ccb-1e8da69a6cf0)
+
 # MLOps-Study  
 
 AI와 빅데이터의 시대인만큼 현업에서 AI를 효과적으로 운영하고 적용하는 데 필수적인 MLops의 중요성이 커지고 있습니다.
