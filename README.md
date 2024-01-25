@@ -50,3 +50,6 @@ https://www.inflearn.com/course/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%97%94%E
   - DATABRICKS를 활용한 MLOps
   - MLOps를 시작하는 5단계 기초부터
 - [과제] - 각자 MLops tool 한개씩 공부해오기<br/><br/>
+
+4주차
+세션 3
