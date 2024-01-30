@@ -37,10 +37,14 @@ MLops study 동기 및 목표에 대해 이야기하였고
 [선정 강좌]머신러닝 엔지니어 실무 - chris song<br/>
 https://www.inflearn.com/course/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%8B%A4%EB%AC%B4#curriculum<br/>
 - [과제] Session 1까지 듣기<br/>
+  
 
-### 2주차 - 세션 후기 및 mlops
-**세션 1에서 인상깊었던 점 및 오늘의 insight**
+### 2주차 - Session 1 후기 및 mlops
+**들은 강의**
+Session0. 머신러닝 파이프라인 소개
+Session1.  머신러닝 프로젝트 실험관리
 <br/>
+**오늘의 Insight**<br/>
 원디비의 존재를 알다. <br/>
 쉬운 머신러닝과 어려운 머신러닝의 차이<br/>
 달파는 모든 서비스가 2주안에 끝남<br/>
@@ -49,7 +53,31 @@ https://www.inflearn.com/course/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%97%94%E
 **elice MLOps conference 세션 2개 맛보기**
   - DATABRICKS를 활용한 MLOps
   - MLOps를 시작하는 5단계 기초부터
-- [과제] - 각자 MLops tool 한개씩 공부해오기<br/><br/>
+  **[과제] 각자 MLops tool 한개씩 공부해오기**<br/><br/>
 
-4주차
-세션 3
+### 3주차 - Session 2 후기 및 mlops tool  
+Session 2. 코드 품질, 데이터 검증, 모델 분석
+**오늘의 Insight**<br/>
+민우 - mlflow
+가경 - amazone sagemaker
+예람 - tensorflow extended  
+민수 - jenkins
+다은 - github action  
+각자 조사해온 툴을 발표하였고 발표하면서 데이터 수집부터 배포 부분을 맡거나 실험 검증 부분을 맡거나 전과정을 맡거나 
+다양한 툴을 보면서 어떨 때 어떠어떠한 툴을 써야하는지 알게되었다.  
+그리고 이러한 툴을 사용해서 자동화를 하여 전체적인 업무 효율이 올라갈 수 있고  
+전체적인 품질 향상에 기여하고 researcher와 시너지도 날 것이다.
+
+[과제] MLOps 활용 사례 하나씩 조사해오기
+### 4주차 - Session 3 후기 및 MLOps 활용 사례 공유  
+Session 3. 도커&쿠버네티스 기초  
+MLOps 엔지니어가 왜 도커와 쿠버네티스를 사용하는지 현업에서 협업을 할 때 도커와 쿠버네티스가 어떤 역할을 맡는지 알게되었고
+node, pod, container, docker, kubernetes 같은 기본 개념을 알게되었다.  
+MLOps 활용 사례는
+기업들의 MLOps 파이프 라인 구축(SK, 네이버, 카카오)
+추천시스템, 자율 주행 기술에 쓰이는 파이프라인 
+품질 관리, 실험  
+그러한 현업 사례들을 살펴보며 왜 MLOps가 필요하고 데이터를 잘관리할 수 있어야하는지  
+보다 직관적으로 알게 되었다.  
+[과제] MLOps 활용한 Code Review 하나씩 해오기
+### 5주
