@@ -76,16 +76,22 @@ node, pod, container, docker, kubernetes 같은 기본 개념을 알게되었다
 MLOps 활용 사례는<br/>
 - 기업들의 MLOps 파이프 라인 구축(SK, 네이버, 카카오)<br/>
 - 추천시스템, 자율 주행 기술에 쓰이는 파이프라인 <br/>
+
 - 품질 관리, 실험  <br/>
 그러한 현업 사례들을 살펴보며 왜 MLOps가 필요하고 데이터를 잘관리할 수 있어야하는지<br/>  
 보다 직관적으로 알게 되었다.  <br/>
 [과제] MLOps 활용한 Code Review 하나씩 해오기
 ### 5주차 - Session 4 후기 및 MLOps 활용한 Code Review
 **오늘의 강의 Keypoint**  
-- kubeflow에 대해서 알고 실습을 통해 센트럴 대시보드, tf
+- kubeflow에 대해서 알고 실습을 통해 센트럴 대시보드, TFjobs, mini0 과 같은 기능을 알게 되었다.
 - 추상화와 재사용성 도커를 이용해서 관리 비슷한 걸 또 사용할 수 있음
 - 조합가능성(독립적), 이식성, 유동성,
 - 표준화 yaml파일로 다 정의할 수 있음 
 - 재사용가능한 컴포넌트의 원리  
 **MLOps 활용한 Code Review**
-  
+  - github action,AWS S3, S2를 활용한 자동 배포
+  - 실제 프로젝트에서 fast api 코드를 dockerfile 등으로 이미지화 후 컨테이너로 생성,
+  -  Kubeflow로 pytorch 모델 배포 CODE
+  - MLOps의 3대 구성 요소
+  이야기하고 토의하였음
+[과제]각자 한 것 GITHUB 정리
