@@ -58,26 +58,26 @@ Session1.  머신러닝 프로젝트 실험관리
 ### 3주차 - Session 2 후기 및 mlops tool  
 Session 2. 코드 품질, 데이터 검증, 모델 분석
 **오늘의 Insight**<br/>
-민우 - mlflow
-가경 - amazone sagemaker
-예람 - tensorflow extended  
-민수 - jenkins
-다은 - github action  
+민우 - mlflow<br/>
+가경 - amazone sagemaker<br/>
+예람 - tensorflow extended<br/>  
+민수 - jenkins<br/>
+다은 - github action  <br/>
 각자 조사해온 툴을 발표하였고 발표하면서 데이터 수집부터 배포 부분을 맡거나 실험 검증 부분을 맡거나 전과정을 맡거나 
 다양한 툴을 보면서 어떨 때 어떠어떠한 툴을 써야하는지 알게되었다.  
 그리고 이러한 툴을 사용해서 자동화를 하여 전체적인 업무 효율이 올라갈 수 있고  
 전체적인 품질 향상에 기여하고 researcher와 시너지도 날 것이다.
 
 [과제] MLOps 활용 사례 하나씩 조사해오기
-### 4주차 - Session 3 후기 및 MLOps 활용 사례 공유  
-Session 3. 도커&쿠버네티스 기초  
-MLOps 엔지니어가 왜 도커와 쿠버네티스를 사용하는지 현업에서 협업을 할 때 도커와 쿠버네티스가 어떤 역할을 맡는지 알게되었고
-node, pod, container, docker, kubernetes 같은 기본 개념을 알게되었다.  
-MLOps 활용 사례는
-기업들의 MLOps 파이프 라인 구축(SK, 네이버, 카카오)
-추천시스템, 자율 주행 기술에 쓰이는 파이프라인 
-품질 관리, 실험  
-그러한 현업 사례들을 살펴보며 왜 MLOps가 필요하고 데이터를 잘관리할 수 있어야하는지  
-보다 직관적으로 알게 되었다.  
+### 4주차 - Session 3 후기 및 MLOps 활용 사례 공유  <br/>
+Session 3. 도커&쿠버네티스 기초  <br/>
+MLOps 엔지니어가 왜 도커와 쿠버네티스를 사용하는지 현업에서 협업을 할 때 도커와 쿠버네티스가 어떤 역할을 맡는지 알게되었고<br/>
+node, pod, container, docker, kubernetes 같은 기본 개념을 알게되었다.  <br/>
+MLOps 활용 사례는<br/>
+기업들의 MLOps 파이프 라인 구축(SK, 네이버, 카카오)<br/>
+추천시스템, 자율 주행 기술에 쓰이는 파이프라인 <br/>
+품질 관리, 실험  <br/>
+그러한 현업 사례들을 살펴보며 왜 MLOps가 필요하고 데이터를 잘관리할 수 있어야하는지<br/>  
+보다 직관적으로 알게 되었다.  <br/>
 [과제] MLOps 활용한 Code Review 하나씩 해오기
 ### 5주
