@@ -94,4 +94,4 @@ MLOps 활용 사례는<br/>
   -  Kubeflow로 pytorch 모델 배포 CODE
   - MLOps의 3대 구성 요소
   이야기하고 토의하였음
-[과제]각자 한 것 GITHUB 정리
+[과제]각자 한 것 GITHUB 정리 및 재충전의시간😎
