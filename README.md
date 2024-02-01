@@ -58,7 +58,7 @@ Session1.  머신러닝 프로젝트 실험관리
 ### 3주차 - Session 2 후기 및 mlops tool  
 Session 2. 코드 품질, 데이터 검증, 모델 분석
 **오늘의 Insight**<br/>
-민우 - mlflow<br/>
+민우 - mlflow
 가경 - amazone sagemaker<br/>  
 예람 - tensorflow extended
 민수 - jenkins<br/>
