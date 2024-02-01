@@ -59,7 +59,7 @@ Session1.  머신러닝 프로젝트 실험관리
 Session 2. 코드 품질, 데이터 검증, 모델 분석
 **오늘의 Insight**<br/>
 민우 - mlflow<br/>
-가경 - amazone sagemaker<br/>
+가경 - amazone sagemaker
 예람 - tensorflow extended<br/>  
 민수 - jenkins<br/>
 다은 - github action  <br/>
@@ -74,9 +74,9 @@ Session 3. 도커&쿠버네티스 기초  <br/>
 MLOps 엔지니어가 왜 도커와 쿠버네티스를 사용하는지 현업에서 협업을 할 때 도커와 쿠버네티스가 어떤 역할을 맡는지 알게되었고<br/>
 node, pod, container, docker, kubernetes 같은 기본 개념을 알게되었다.  <br/>
 MLOps 활용 사례는<br/>
-기업들의 MLOps 파이프 라인 구축(SK, 네이버, 카카오)<br/>
-추천시스템, 자율 주행 기술에 쓰이는 파이프라인 <br/>
-품질 관리, 실험  <br/>
+- 기업들의 MLOps 파이프 라인 구축(SK, 네이버, 카카오)<br/>
+- 추천시스템, 자율 주행 기술에 쓰이는 파이프라인 <br/>
+- 품질 관리, 실험  <br/>
 그러한 현업 사례들을 살펴보며 왜 MLOps가 필요하고 데이터를 잘관리할 수 있어야하는지<br/>  
 보다 직관적으로 알게 되었다.  <br/>
 [과제] MLOps 활용한 Code Review 하나씩 해오기
