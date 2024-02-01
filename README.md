@@ -59,8 +59,8 @@ Session1.  머신러닝 프로젝트 실험관리
 Session 2. 코드 품질, 데이터 검증, 모델 분석
 **오늘의 Insight**<br/>
 민우 - mlflow<br/>
-가경 - amazone sagemaker
-예람 - tensorflow extended<br/>  
+가경 - amazone sagemaker<br/>  
+예람 - tensorflow extended
 민수 - jenkins<br/>
 다은 - github action  <br/>
 각자 조사해온 툴을 발표하였고 발표하면서 데이터 수집부터 배포 부분을 맡거나 실험 검증 부분을 맡거나 전과정을 맡거나 
